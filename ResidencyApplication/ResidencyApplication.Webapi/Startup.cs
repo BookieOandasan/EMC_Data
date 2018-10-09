@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNet.OData.Builder;
+using Microsoft.AspNet.OData.Extensions;
+using Microsoft.AspNet.OData.Query;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
+using ResidencyApplication.Repository.ResidencyApplication;
 
 namespace ResidencyApplication.Webapi
 {
@@ -24,6 +23,9 @@ namespace ResidencyApplication.Webapi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
+            services.AddDbContext<ResidencyApplicationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ResidencyAppdbConnString")));
+            services.AddOData();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -35,7 +37,29 @@ namespace ResidencyApplication.Webapi
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvc();
+            ODataConventionModelBuilder builder = new ODataConventionModelBuilder();
+            builder.EntitySet<ApplicantModel>("Applicants").EntityType.Filter(QueryOptionSetting.Allowed);
+            app.UseCors(options => options
+                                    .AllowAnyHeader()
+                                    .AllowAnyMethod()
+                                    .AllowAnyOrigin()
+                                    .AllowCredentials()
+
+                                    );
+
+            app.UseMvc(b =>
+            {
+                b.MapODataServiceRoute("odata", "odata", builder.GetEdmModel());
+                b.EnableDependencyInjection();
+                b.Select()
+                .Expand()
+                .Filter()
+                .OrderBy(QueryOptionSetting.Allowed)
+                .MaxTop(2000)
+                .Count();
+
+
+            });
         }
     }
 }
