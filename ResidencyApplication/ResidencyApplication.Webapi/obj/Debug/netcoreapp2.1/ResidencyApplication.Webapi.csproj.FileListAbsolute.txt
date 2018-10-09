@@ -1,0 +1,14 @@
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\bin\Debug\netcoreapp2.1\ResidencyApplication.Webapi.deps.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\bin\Debug\netcoreapp2.1\ResidencyApplication.Webapi.runtimeconfig.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\bin\Debug\netcoreapp2.1\ResidencyApplication.Webapi.runtimeconfig.dev.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\bin\Debug\netcoreapp2.1\ResidencyApplication.Webapi.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.csprojAssemblyReference.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.csproj.CoreCompileInputs.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.RazorAssemblyInfo.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.RazorAssemblyInfo.cs
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.AssemblyInfoInputs.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.AssemblyInfo.cs
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.RazorTargetAssemblyInfo.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\bin\Debug\netcoreapp2.1\ResidencyApplication.Webapi.pdb
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Webapi\obj\Debug\netcoreapp2.1\ResidencyApplication.Webapi.pdb

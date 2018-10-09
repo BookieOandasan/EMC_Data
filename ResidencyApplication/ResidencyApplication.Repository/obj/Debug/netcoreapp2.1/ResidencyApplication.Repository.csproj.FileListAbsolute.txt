@@ -1,0 +1,11 @@
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.deps.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.csproj.CoreCompileInputs.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.AssemblyInfoInputs.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.AssemblyInfo.cs
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.runtimeconfig.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.runtimeconfig.dev.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.csprojAssemblyReference.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.pdb
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.pdb

@@ -1,0 +1,17 @@
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.deps.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.runtimeconfig.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.runtimeconfig.dev.json
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.pdb
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\bin\Debug\netcoreapp2.1\ResidencyApplication.Repository.pdb
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.csprojAssemblyReference.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.csproj.CoreCompileInputs.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.AssemblyInfoInputs.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.AssemblyInfo.cs
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.csproj.CopyComplete
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication.Repository.UnitTest\obj\Debug\netcoreapp2.1\ResidencyApplication.Repository.UnitTest.pdb

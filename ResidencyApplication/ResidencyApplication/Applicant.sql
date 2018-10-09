@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Applicant]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [LastName] NVARCHAR(50) NOT NULL,
+	[FirstName] NVARCHAR(50) NOT NULL,
+	[MiddleName] NVARCHAR(50)
+
+)

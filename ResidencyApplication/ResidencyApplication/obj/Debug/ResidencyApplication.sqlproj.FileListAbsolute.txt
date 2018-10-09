@@ -1,0 +1,6 @@
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication\bin\Debug\ResidencyApplication.dacpac
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication\bin\Debug\ResidencyApplication.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication\bin\Debug\ResidencyApplication.pdb
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication\obj\Debug\ResidencyApplication.sqlprojAssemblyReference.cache
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication\obj\Debug\ResidencyApplication.dll
+C:\dev\EMC_Data\ResidencyApplication\ResidencyApplication\obj\Debug\ResidencyApplication.pdb
