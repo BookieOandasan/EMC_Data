@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ResidencyApplication", "ResidencyApplication\ResidencyApplication.sqlproj", "{F323CDFB-9FC2-4BA9-85DE-605C88B13F01}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ResidencyApplication.Datatools", "ResidencyApplication\ResidencyApplication.Datatools.sqlproj", "{F323CDFB-9FC2-4BA9-85DE-605C88B13F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResidencyApplication.Webapi", "ResidencyApplication.Webapi\ResidencyApplication.Webapi.csproj", "{3CC4E793-F7A2-4A08-A8D5-14688A32A666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResidencyApplication.Webapi", "ResidencyApplication.Webapi\ResidencyApplication.Webapi.csproj", "{3CC4E793-F7A2-4A08-A8D5-14688A32A666}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResidencyApplication.Repository", "ResidencyApplication.Repository\ResidencyApplication.Repository.csproj", "{CF285763-4D56-40AA-8B41-1EA2AE90EAD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResidencyApplication.Repository", "ResidencyApplication.Repository\ResidencyApplication.Repository.csproj", "{CF285763-4D56-40AA-8B41-1EA2AE90EAD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResidencyApplication.Repository.UnitTest", "ResidencyApplication.Repository.UnitTest\ResidencyApplication.Repository.UnitTest.csproj", "{8AE4014F-F14C-44C3-8B65-FF792AFF9128}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResidencyApplication.Repository.UnitTest", "ResidencyApplication.Repository.UnitTest\ResidencyApplication.Repository.UnitTest.csproj", "{8AE4014F-F14C-44C3-8B65-FF792AFF9128}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
