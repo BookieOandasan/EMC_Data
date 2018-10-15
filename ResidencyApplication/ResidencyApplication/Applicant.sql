@@ -23,10 +23,15 @@
 	lastUpdateDate Datetime,
 	createdDate datetime,
 	lastUpdateBy nvarchar(254),
+<<<<<<< HEAD
 	createdBy  nvarchar(254)
 
 
 
 
+=======
+	createdBy  nvarchar(254),
+	picture VARBINARY(MAX)
+>>>>>>> fd2600152439862a3f5e386c5c40ca49f9b366c8
 
 )

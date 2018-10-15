@@ -3520,11 +3520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\EMC_Data\\ResidencyApplication\\ResidencyApplication.Repository\\ResidencyApplication.Repository.csproj",
+      "projectUniqueName": "C:\\dev\\EMC_Data\\EMC_Data\\ResidencyApplication\\ResidencyApplication.Repository\\ResidencyApplication.Repository.csproj",
       "projectName": "ResidencyApplication.Repository",
-      "projectPath": "C:\\dev\\EMC_Data\\ResidencyApplication\\ResidencyApplication.Repository\\ResidencyApplication.Repository.csproj",
+      "projectPath": "C:\\dev\\EMC_Data\\EMC_Data\\ResidencyApplication\\ResidencyApplication.Repository\\ResidencyApplication.Repository.csproj",
       "packagesPath": "C:\\Users\\Bookie\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\EMC_Data\\ResidencyApplication\\ResidencyApplication.Repository\\obj\\",
+      "outputPath": "C:\\dev\\EMC_Data\\EMC_Data\\ResidencyApplication\\ResidencyApplication.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
