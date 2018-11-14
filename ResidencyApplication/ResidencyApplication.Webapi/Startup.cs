@@ -39,6 +39,10 @@ namespace ResidencyApplication.Webapi
 
             ODataConventionModelBuilder builder = new ODataConventionModelBuilder();
             builder.EntitySet<ApplicantModel>("Applicants").EntityType.Filter(QueryOptionSetting.Allowed);
+            var function = builder.Function("getApplicants");
+            function.Parameter<string>("searchText");
+            function.ReturnsCollectionFromEntitySet<ApplicantModel>("Applicants");
+            //var model = builder.GetEdmModel();
             app.UseCors(options => options
                                     .AllowAnyHeader()
                                     .AllowAnyMethod()

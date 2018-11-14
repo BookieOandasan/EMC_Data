@@ -23,10 +23,20 @@ namespace ResidencyApplication.Webapi.Controllers
         }
 
         // GET: api/Applicants
+        //[HttpGet]
+        //[ODataRoute("Applicants")]
+        //[EnableQuery(AllowedQueryOptions = AllowedQueryOptions.All)]
+        //public IQueryable<ApplicantModel> Applicants()
+        //{
+        //    var result = _context.Applicants.AsQueryable();
+        //    return result;
+        //}
+
+        ///https://localhost:44353/odata/Applicants?searchText=111
         [HttpGet]
-        [ODataRoute("Applicants")]
-        [EnableQuery(AllowedQueryOptions = AllowedQueryOptions.All)]
-        public IQueryable<ApplicantModel> GetApplicants()
+       [ODataRoute("getApplicants(searchText={searchText})")]
+       [EnableQuery(AllowedQueryOptions = AllowedQueryOptions.All)]
+        public IQueryable<ApplicantModel> getApplicants([FromODataUri]string searchText)
         {
             var result = _context.Applicants.AsQueryable();
             return result;
